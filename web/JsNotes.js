@@ -7,7 +7,7 @@ toLowerCase -->     ""
 trim        -->     ""
 substr      -->     ""
 substring   -->     ""
-indexOf     -->     ""              Nesting ----->  str.IndexOf('l',str.IndexOf('l)+1)
+indexOf     -->     ""              Nesting ----->  str.indexOf('l',str.indexOf('l)+1)
 replace     -->     ""
 replaceall  -->     ""
 repeat      -->     ""
